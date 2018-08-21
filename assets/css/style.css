@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right, black, #0000FF);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: black;
+    padding-top: 200px;
+}
+.blockForm{
+    background-color:white;
+    height:100px;
+    width:400px;
+    padding-top:50px;
+    padding-bottom:50px;
+    border-radius:50px;
+    box-shadow:3px 3px 10px #F2F2F2;
+}
